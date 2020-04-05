@@ -1,3 +1,15 @@
+# React Application.
+
+# User Story
+
+As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.   
+
+# Business Context
+
+An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+
+# Instalation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +78,4 @@ This section has moved [here](https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved [here](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
