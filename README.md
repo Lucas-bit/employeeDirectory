@@ -1,4 +1,4 @@
-# React Application.
+# Employee Directory React Application.
 
 # User Story
 
